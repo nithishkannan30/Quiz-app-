@@ -1,0 +1,21 @@
+.par{
+    border:1px solid black;
+    width:500px;
+    margin:0 auto;
+    padding: 10px;
+}
+.but{
+    width: 300px;
+    height: 40px;
+    display:block;
+}
+/* Add these styles to your CSS */
+.correct {
+    background-color: green; /* Set the background color for correct answers */
+    color: white; /* Set the text color for correct answers */
+}
+
+.incorrect {
+    background-color: red; /* Set the background color for incorrect answers */
+    color: white; /* Set the text color for incorrect answers */
+}
